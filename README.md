@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Elygton</h1>
 <h3 align="center">Um jovem estudante de programação</h3>
 
-- 🔭 No momento estou cursando ](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+- 🔭 No momento estou cursando **Python** (https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
 - 🌱 Atualmente estou atualizando **Python e Django**
 
@@ -11,7 +11,7 @@
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/elygton-marinho-465791249/](https://www.linkedin .com/in/elygton-marinho-465791249/)
 
-- ⚡ Fato comemorar **a tecnologia esta semper avançando e nos surpreendendo**
+- ⚡ Fato curioso **a tecnologia esta semper avançando e nos surpreendendo**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left ">
