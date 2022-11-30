@@ -4,9 +4,9 @@
 
 - 🔭 Cursando na **Udemy** (https://www.udemy.com/)
 
-- 🌱 Atualmente estou estudando **Python e Django**
+- 🌱 Atualmente estou estudando **Python / Django / HTML**
 
-- 💬 Pergunte-me sobre **Python e Django**
+- 💬 Pergunte-me sobre **Python / Django / HTML**
 
 - 📫 Como chegar até mim **qmarinho@outlook.com**
 
